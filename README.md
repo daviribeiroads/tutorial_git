@@ -24,3 +24,4 @@
 
 # git checkout main >>> altera de branch, se eu estava no teste e passo para o main.
 
+# git merge teste >>> eu peguei todas as alterações feita no teste e passei para o main, que é o principal, dessa forma ficaram paricidos.
