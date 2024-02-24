@@ -15,3 +15,7 @@
 # git push -u origin main >>> pega meu repositorio atual e manda para o repositorio do github.
 
 # git checkout -b "teste" >>> o -b cria um novo branch e, o checkout faz a mudança de branch. Assim trabalhamos em repositorios diferentes e depois é spo unir os repoditorio e tornar um só projeto.
+
+#####Depois que fez todo o procedimetno a cima, quando tiver qualquer alteração no projeto, basta apenas da o git commit.
+
+# git push --set-upstream origin teste >>> como foi criado outro branch(repoditorio no github), esse comando vai criar o novo branch no github e mandar os códigos para ele.
