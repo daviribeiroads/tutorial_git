@@ -31,3 +31,5 @@
 # git clone https://github.com/daviribeiroads/tutorial_git.git <novo nome> >>> dessa forma agente clona o projet o que esta no github.
 
 # git clean -f >>> exclui arquivos que estão como U de update, mas tem que ser antes do commit.
+
+# git checkout .\nome arquivo >>> vai voltar o arquivo como era antes, porém não pode ter dado o commit.
