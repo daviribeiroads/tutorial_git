@@ -27,3 +27,5 @@
 # git merge teste >>> eu peguei todas as alterações feitas no teste e passei para o principal, que é o principal, dessa forma ficaram paricidos.
 
 # git merge teste >>> eu peguei todas as alterações feita no teste e passei para o main, que é o principal, dessa forma ficaram paricidos.
+
+# git clone https://github.com/daviribeiroads/tutorial_git.git <novo nome> >>> dessa forma agente clona o projet o que esta no github.
