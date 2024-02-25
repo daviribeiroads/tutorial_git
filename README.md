@@ -20,7 +20,9 @@
 
 # git push --set-upstream origin teste >>> como foi criado outro branch(repoditorio no github), esse comando vai criar o novo branch no github e mandar os códigos para ele.
 
-# git branch >>> me mostra uma lista dos branch existente e o qual estou ligado.
+# git branch >>> me mostra uma lista de branch existente e que estou ligado.
 
-# git checkout main >>> altera de branch, se eu estava no teste ele passo para o main.
+# git checkout main >>> alteração de branch, se eu estava no teste e passo para o main.
+
+# git merge teste >>> eu peguei todas as alterações feitas no teste e passei para o principal, que é o principal, dessa forma ficaram paricidos.
 
