@@ -25,3 +25,5 @@
 # git checkout main >>> altera de branch, se eu estava no teste e passo para o main.
 
 # git merge teste >>> eu peguei todas as alterações feita no teste e passei para o main, que é o principal, dessa forma ficaram paricidos.
+
+# git clone https://github.com/daviribeiroads/tutorial_git.git <novo nome> >>> dessa forma agente clona o projet o que esta no github.
