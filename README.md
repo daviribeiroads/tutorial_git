@@ -33,3 +33,5 @@
 # git clean -f >>> exclui arquivos que estão como U de update, mas tem que ser antes do commit.
 
 # git checkout .\nome arquivo >>> vai voltar o arquivo como era antes, porém não pode ter dado o commit.
+
+# git log >>> vai lista toda movimentação que o projeto teve
