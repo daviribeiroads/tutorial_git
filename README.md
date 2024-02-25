@@ -22,5 +22,5 @@
 
 # git branch >>> me mostra uma lista dos branch existente e o qual estou ligado.
 
-# git checkout main >>> altera de branch, se eu estava no teste e passo para o main.
+# git checkout main >>> altera de branch, se eu estava no teste ele passo para o main.
 
